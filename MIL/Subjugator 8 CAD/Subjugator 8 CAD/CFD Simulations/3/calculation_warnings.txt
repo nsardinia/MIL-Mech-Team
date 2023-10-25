@@ -1,7 +1,0 @@
-2021-Apr-14 11:30:29
-Computer name:	MIL-CAD-3
-Number of cores used in calculation:	4
-Configuration name:	Default
-Project name:	Drag Coeff. in Z-direction
-
-Warnings on last iteration: 

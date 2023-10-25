@@ -1,7 +1,0 @@
-2021-Apr-10 14:47:09
-Computer name:	MIL-CAD-3
-Number of cores used in calculation:	4
-Configuration name:	Default
-Project name:	Drag Coef. y direction
-
-Warnings on last iteration: 

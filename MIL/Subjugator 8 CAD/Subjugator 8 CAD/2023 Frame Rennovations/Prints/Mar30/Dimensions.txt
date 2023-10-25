@@ -1,5 +1,0 @@
-1&2 - 3.8" max len
-3&4 - 2.2" max len
-5&6 - 5.7173" max len (I'm so sorry for this dimension, it's a curved geometry)
-7&8 5.2173" max len
-
