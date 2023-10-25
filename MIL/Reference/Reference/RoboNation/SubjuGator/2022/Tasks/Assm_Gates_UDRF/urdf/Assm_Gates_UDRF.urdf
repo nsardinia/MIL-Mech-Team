@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This URDF was automatically created by SolidWorks to URDF Exporter! Originally created by Stephen Brawner (brawner@gmail.com) 
+     Commit Version: 1.6.0-4-g7f85cfe  Build Version: 1.6.7995.38578
+     For more information, please see http://wiki.ros.org/sw_urdf_exporter -->
+<robot
+  name="Assm_Gates_UDRF">
+  <link
+    name="base_link">
+    <inertial>
+      <origin
+        xyz="-0.000334383229830598 -0.415842296677257 4.56345901650137E-18"
+        rpy="0 0 0" />
+      <mass
+        value="15.6841476925093" />
+      <inertia
+        ixx="0.54030540095444"
+        ixy="6.15284732885482E-20"
+        ixz="1.81046038795965E-09"
+        iyy="5.07038501832075"
+        iyz="1.66879384783517E-18"
+        izz="5.58727350327502" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://Assm_Gates_UDRF/meshes/base_link.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 0.752941176470588 0.752941176470588 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://Assm_Gates_UDRF/meshes/base_link.STL" />
+      </geometry>
+    </collision>
+  </link>
+</robot>

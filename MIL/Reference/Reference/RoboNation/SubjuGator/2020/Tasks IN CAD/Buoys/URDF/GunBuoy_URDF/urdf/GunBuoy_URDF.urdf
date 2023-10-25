@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This URDF was automatically created by SolidWorks to URDF Exporter! Originally created by Stephen Brawner (brawner@gmail.com) 
+     Commit Version: 1.6.0-1-g15f4949  Build Version: 1.6.7594.29634
+     For more information, please see http://wiki.ros.org/sw_urdf_exporter -->
+<robot
+  name="GunBuoy_URDF">
+  <link
+    name="base_link">
+    <inertial>
+      <origin
+        xyz="-0.843107210726147 0.23711928825284 -0.00978026442259059"
+        rpy="0 0 0" />
+      <mass
+        value="8.45052355234116" />
+      <inertia
+        ixx="0.978453219854816"
+        ixy="0.0389212962177884"
+        ixz="0.00134030264652224"
+        iyy="0.239211081417715"
+        iyz="-0.0255347162790785"
+        izz="1.21596201808659" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://GunBuoy_URDF/meshes/base_link.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://GunBuoy_URDF/meshes/base_link.STL" />
+      </geometry>
+    </collision>
+  </link>
+</robot>

@@ -1,0 +1,12 @@
+Fully modular 18650 battery holder system. 
+
+Designed around samsung 30Q 18650 3000 mAh 15A battery
+
+https://www.imrbatteries.com/samsung-30q-18650-3000mah-15a-battery/
+
+Total Capacity: 532 watt hours combined (266 per stack)
+Output voltage: 24 volts per stack
+Max output amps: 120 (60 per stack)
+
+The idea is that we take 6 18650 cells and wire them in series to form a module that can output ~24 volts at ~15 amps . Each module can then be combined with any number of other modules to form a stack of parallel combinations. The CAD model has 8 of these modules with the intention of wiring 4 of them in parallel to create two 24 volt batteries with ~60 amps output capacity apiece. There is enough room to run balance and discharge wires throughout the system to safely recharge them as well as connect them to the battery monitor board.
+

@@ -1,0 +1,35 @@
+# Notes
+The logos provided are in the SVG format, if other formats would be better let us know.
+The MIL Logo is designed to be placed on a white background.
+Our lab has several different competition teams, with various different team names. We typically go by MIL in non-competition circles, and by the specific team/robot name at competition specific events. In this case we think that having both listed makes the most sense, but we trust your judgement on the poster design.
+
+# Overall Team Name
+     - UF Machine Intelligence Lab
+
+# RoboSub Vehicle and common team name
+    - SubjuGator
+
+
+# Team Websites
+    - https://mil.ufl.edu
+    - https://subjugator.org
+    - https://navigatoruf.org
+    - https://propagator.org
+    - https://mil.readthedocs.io
+
+# Overall Social Media
+    - https://github.com/uf-mil/mil
+    - https://linkedin.com/company/machineintelligencelab/
+    - https://instagram.com/ufmil/
+
+# Competition Specific Social Media
+    - https://twitter.com/SubjuGatorUF
+    - https://youtube.com/user/SubjuGatorUF
+    - https://twitter.com/NaviGatorUF
+    - https://twitter.com/ufpropagator
+    - https://facebook.com/TeamPropaGator
+
+# Team Background
+- The Machine Intelligence Laboratory (MIL) provides a synergistic environment dedicated to the study and development of intelligent, autonomous robots. The faculty and students associated with the laboratory conduct research in the theory and realization of machine intelligence covering topics such as machine learning, real-time computer vision, statistical modeling, robot kinematics, autonomous vehicles, teleoperation and human interfaces, robot and nonlinear control, computational intelligence, neural networks, and general robotics.
+- We have been continuously competing in autonomous robotics since 1996.
+- We currently have over 60 active members across our electrical, mechanical, and software teams.

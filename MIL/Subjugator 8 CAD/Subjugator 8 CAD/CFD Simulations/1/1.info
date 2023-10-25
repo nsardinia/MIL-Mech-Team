@@ -1,0 +1,100 @@
+
+    System Info
+                Status:   Solver is finished.
+                Product:   Flow Simulation 2020 3.0. Build: 4921
+                Computer name:   MIL-CAD-3
+                User name:   acastrillon
+                Processors:          Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz
+                Memory:   16278 MB / 10833 MB
+                Operating system:   Windows 10 (or higher) (Version 10.0.19042)
+                CAD version:   SOLIDWORKS 2020 SP3.0
+                CPU speed:   3401 MHz
+
+    General Info
+                Model:   Part for x-direction test - Copy.SLDPRT
+                Project name:   Drag Coeff. Front of Sub
+                Project path:   C:\Users\acastrillon\Documents\GrabCAD\SUBJUGATOR\Subjugator 8 CAD\CFD Simulations\1
+                Units system:   SI (m-kg-s)
+                Analysis type:   External (not exclude internal spaces)
+                Exclude cavities without flow conditions :   Off
+                Coordinate system:   Global coordinate system
+                Reference axis:   X
+
+    Physical Features
+                Heat conduction in solids:   Off
+                Time dependent:   Off
+                Gravitational effects:   Off
+                Flow type:   Laminar and turbulent
+                Cavitation:   Off
+                High Mach number flow:   Off
+                Free surface:   Off
+                Default roughness:   0 micrometer
+                Default wall conditions:   Adiabatic wall
+
+    Computational Domain
+
+        Size
+                X min:   -2.240 m
+                X max:   4.420 m
+                Y min:   -2.240 m
+                Y max:   3.018 m
+                Z min:   -2.610 m
+                Z max:   2.617 m
+                X size:   6.660 m
+                Y size:   5.258 m
+                Z size:   5.227 m
+
+    Calculation Mesh
+
+        Basic Mesh Dimensions
+                Number of cells in X:   39
+                Number of cells in Y:   32
+                Number of cells in Z:   32
+
+        Number Of Cells
+                Cells:   41228
+                Fluid cells:   41228
+                Irregular cells:   0
+                Trimmed cells:   0
+                Maximum refinement level:   1
+
+    Goals
+
+        Global Goals
+
+            GG Force (X) 1
+                Type:   Global Goal
+                Goal type:   Force (X)
+                Coordinate system:   Global coordinate system
+                Use in convergence :   On
+
+        Equation Goals
+
+            Drag Coeff. Front of Sub
+                Type:   Equation Goal
+                Formula:   GG Force (X) 1*2/((0.3^2)*0.30258*997)
+                Dimensionality:   Force
+                Use in convergence :   On
+
+    Goals
+                
+                Name                       	Unit   	Value    	Progress   	Criteria       	Delta          	Use in convergence 
+                GG Force (X) 1             	N      	32.647   	100        	0.616816623    	0.489573061    	On                 
+                Drag Coeff. Front of Sub   	N      	0.866    	100        	0.0163572646   	0.0129829123   	On                 
+
+    General Info
+                Run at:   MIL-CAD-3
+                Number of cores:   4
+                Iterations:   70
+                CPU time:   0 s
+
+        Log
+                Mesh generation started	0:   14:37:14 , Mar 26
+                Mesh generation normally finished	0:   14:37:15 , Mar 26
+                Preparing data for calculation	0:   14:37:15 , Mar 26
+                Calculation started	0:   14:37:17 , Mar 26
+                Calculation has converged since the following criteria are satisfied:	70:   14:37:45 , Mar 26
+                    Goals are converged	70:   
+                Calculation finished	70:   14:37:46 , Mar 26
+                Preparing data for calculation	0:   14:11:03 , Apr 10
+                Calculation finished	70:   14:11:04 , Apr 10

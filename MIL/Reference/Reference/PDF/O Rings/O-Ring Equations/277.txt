@@ -1,0 +1,9 @@
+﻿"oring.277.ID" = 11.484in
+"oring.277.A"= 11.750in
+"oring.277.A1"= 11.722in
+"oring.277.B" = 11.500in
+"oring.277.B1" = 11.528in
+"oring.277.C"= 11.747in
+"oring.277.D"= 11.503in
+"oring.277.G"= 0.187in
+"oring.277.W"= 0.139in

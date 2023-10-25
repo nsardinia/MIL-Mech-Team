@@ -1,0 +1,16 @@
+[StartTime]
+Computer PV Reinforced Hull-Static 1.MFC=2s
+[SolverState]
+Computer PV Reinforced Hull-Static 1.MFC=2
+[MainFrame]
+Computer PV Reinforced Hull-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+Computer PV Reinforced Hull-Static 1.MFC=No
+[SolverType]
+Computer PV Reinforced Hull-Static 1.MFC=Linear Analysis
+[StudyType]
+Computer PV Reinforced Hull-Static 1.MFC=0
+[StudyName]
+Computer PV Reinforced Hull-Static 1.MFC=Static 1
+[Solver]
+Computer PV Reinforced Hull-Static 1.MFC=Sparse

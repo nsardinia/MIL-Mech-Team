@@ -1,0 +1,10 @@
+﻿"oring.279.ID"= 12.984in
+"oring.279.A"= 13.250in
+"oring.279.A1"= 13.222in
+"oring.279.B"= 13.000in
+"oring.279.B1"= 13.028in
+"oring.279.C"= 13.247in
+"oring.279.D"= 13.003in
+"oring.279.G"= 0.187in
+"oring.279.W"= 0.139in
+"oring.279.C.factor"= "oring.279.C" - "oring.279.C" * "c.factor"

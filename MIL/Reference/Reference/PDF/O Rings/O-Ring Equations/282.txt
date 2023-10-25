@@ -1,0 +1,12 @@
+﻿"oring.282.ID"= 15.955in
+"oring.282.A"= 16.250in
+"oring.282.A1"= 16.222in
+"oring.282.B"= 16.000in
+"oring.282.B1"= 16.028in
+"oring.282.C"= 16.247in
+"oring.282.D"= 16.003in
+"oring.282.G"= 0.187in
+"oring.282.W"= 0.139in
+"anodize.add"= 0.001in
+"c.factor"= 0.00271
+"oring.282.C.factor"= "oring.282.C" - "oring.282.C" * "c.factor"

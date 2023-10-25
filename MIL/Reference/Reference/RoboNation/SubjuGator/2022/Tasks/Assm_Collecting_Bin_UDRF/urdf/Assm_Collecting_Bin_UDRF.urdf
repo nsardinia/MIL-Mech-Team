@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This URDF was automatically created by SolidWorks to URDF Exporter! Originally created by Stephen Brawner (brawner@gmail.com) 
+     Commit Version: 1.6.0-4-g7f85cfe  Build Version: 1.6.7995.38578
+     For more information, please see http://wiki.ros.org/sw_urdf_exporter -->
+<robot
+  name="Assm_Collecting_Bin_UDRF">
+  <link
+    name="base_link">
+    <inertial>
+      <origin
+        xyz="-0.0168115779249993 -0.0460827025651802 -4.34383803658985E-17"
+        rpy="0 0 0" />
+      <mass
+        value="3.96888642925429" />
+      <inertia
+        ixx="0.108169644134188"
+        ixy="7.37095944222148E-18"
+        ixz="-8.0336015253108E-17"
+        iyy="0.31588525882573"
+        iyz="7.75666959700239E-18"
+        izz="0.233303744429097" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://Assm_Collecting_Bin_UDRF/meshes/base_link.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.792156862745098 0.819607843137255 0.933333333333333 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://Assm_Collecting_Bin_UDRF/meshes/base_link.STL" />
+      </geometry>
+    </collision>
+  </link>
+</robot>

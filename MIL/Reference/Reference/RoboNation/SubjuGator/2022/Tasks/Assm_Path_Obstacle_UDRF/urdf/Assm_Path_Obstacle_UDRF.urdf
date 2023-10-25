@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This URDF was automatically created by SolidWorks to URDF Exporter! Originally created by Stephen Brawner (brawner@gmail.com) 
+     Commit Version: 1.6.0-4-g7f85cfe  Build Version: 1.6.7995.38578
+     For more information, please see http://wiki.ros.org/sw_urdf_exporter -->
+<robot
+  name="Assm_Path_Obstacle_UDRF">
+  <link
+    name="base_link">
+    <inertial>
+      <origin
+        xyz="0.228599978133845 -0.140989199969764 6.11878088606262E-09"
+        rpy="0 0 0" />
+      <mass
+        value="2.64655442793908" />
+      <inertia
+        ixx="0.00819464918658618"
+        ixy="-2.08205237123828E-11"
+        ixz="-4.81871583298743E-11"
+        iyy="0.0346731897267469"
+        iyz="1.26050049131358E-19"
+        izz="0.0357971762557945" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://Assm_Path_Obstacle_UDRF/meshes/base_link.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://Assm_Path_Obstacle_UDRF/meshes/base_link.STL" />
+      </geometry>
+    </collision>
+  </link>
+</robot>

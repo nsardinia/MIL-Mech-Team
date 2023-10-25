@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"MME-42QEEC-D024";"";
+"TraceParts.PartVersion";"1.2.2";"";
+"SUPPLIER";"Clippard Minimatic";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-12112010-058758";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Maximatic 4-Way Valves - 3-Position Spring Centered Double Solenoid Valves, Closed Center - Ports : 1/4'' NPT - DIN connector with LED indicator - 24-volt DC";"";
+"TraceParts.InstanceId";"10-12112010-0587588M9YU7P30NHZU48DDDSF5AFQO";"";
+"TraceParts.PartTitle";"Maximatic 4-Way Valves - 3-Position Spring Centered Double Solenoid Valves";"";
+"OMNICLASS23";"23.27.33.11.11";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"CLIPPARD:/TRACEPARTS/TP06/TP06008/TP06008001/10-12112010-058758";"";

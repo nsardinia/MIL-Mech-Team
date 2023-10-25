@@ -1,0 +1,29 @@
+﻿absolute path:C:\Users\acastrillon\Documents\GrabCAD\SUBJUGATOR\Subjugator 8 CAD\CFD Simulations\3
+init:1
+run_capture:1
+run_solver:1
+new_calc:1
+close_monitor:0
+run_convert:0
+isOK:1
+ForceNewCalc:1
+run_capture_prestate:1
+StartFldName:C:\Users\acastrillon\Documents\GrabCAD\SUBJUGATOR\Subjugator 8 CAD\CFD Simulations\3\3.fld
+NewCalcStartCptName:
+TransTimeMoments:
+TransFldNames:
+CurSelTranFld:0
+Trans:0
+UsePrevRes:0
+ForcetoRunCPT:1
+ComputerName:
+port:61813
+ProcessResults:1
+LoadLastResult:1
+ProcessorsToUse:0
+LoadBaseFLDFile:0
+BaseFLDFile:
+id:{4A8F9F93-5997-4D38-BFAF-499F8BFE3799}
+calculation_state:15
+ForceContinue:0
+SolverProcessId:9904

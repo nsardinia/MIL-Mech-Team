@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This URDF was automatically created by SolidWorks to URDF Exporter! Originally created by Stephen Brawner (brawner@gmail.com) 
+     Commit Version: 1.6.0-4-g7f85cfe  Build Version: 1.6.7995.38578
+     For more information, please see http://wiki.ros.org/sw_urdf_exporter -->
+<robot
+  name="Assem1">
+  <link
+    name="base_link">
+    <inertial>
+      <origin
+        xyz="1.57914945651835 1.28801214210438 2.39140014493271"
+        rpy="0 0 0" />
+      <mass
+        value="13.5796012155689" />
+      <inertia
+        ixx="12.815996034552"
+        ixy="1.19666886583643"
+        ixz="0.00399187737486715"
+        iyy="14.3597766286337"
+        iyz="-0.00220331142713963"
+        izz="2.84895970177839" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://Assem1/meshes/base_link.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://Assem1/meshes/base_link.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <link
+    name="Child Link">
+    <inertial>
+      <origin
+        xyz="1.53666761851117 0.291788914854402 0.892374549195731"
+        rpy="0 0 0" />
+      <mass
+        value="13.5796012155689" />
+      <inertia
+        ixx="3.27506721797163"
+        ixy="-2.23632619782805"
+        ixz="-0.00425836785672617"
+        iyy="14.5857976413531"
+        iyz="-0.00201090278681047"
+        izz="12.1638675056393" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://Assem1/meshes/Child Link.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://Assem1/meshes/Child Link.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="Best"
+    type="fixed">
+    <origin
+      xyz="2.3634 -0.82728 0.86219"
+      rpy="1.0647 0.16514 -1.6617" />
+    <parent
+      link="base_link" />
+    <child
+      link="Child Link" />
+    <axis
+      xyz="0 0 0" />
+  </joint>
+</robot>

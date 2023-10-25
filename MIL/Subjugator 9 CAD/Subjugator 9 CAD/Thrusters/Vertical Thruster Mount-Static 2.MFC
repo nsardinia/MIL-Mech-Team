@@ -1,0 +1,16 @@
+[StartTime]
+Vertical Thruster Mount-Static 2.MFC=11s
+[SolverState]
+Vertical Thruster Mount-Static 2.MFC=2
+[MainFrame]
+Vertical Thruster Mount-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMEEAAAAADLBAAAAAELFAAAAAGICAAAAA
+[ShowMin]
+Vertical Thruster Mount-Static 2.MFC=No
+[SolverType]
+Vertical Thruster Mount-Static 2.MFC=Linear Analysis
+[StudyType]
+Vertical Thruster Mount-Static 2.MFC=0
+[StudyName]
+Vertical Thruster Mount-Static 2.MFC=Static 2
+[Solver]
+Vertical Thruster Mount-Static 2.MFC=Iterative

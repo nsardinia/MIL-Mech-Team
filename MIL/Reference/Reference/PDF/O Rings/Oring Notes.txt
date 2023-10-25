@@ -1,0 +1,9 @@
+Useful Tables/Figures:
+	*Design Table 4-3 [Parker Oring]
+	*Design Table 4-4 (recommended) [Parker Oring]
+	*Figure 3-2 [Parker Oring]
+	*Rules of Thumb [Apple Seal Design Guide] pg. 109
+	*Installation/Assembly of Oring [Parker Oring 3-7]
+	
+Potential Orings:
+	*2-246 Parker Oring (1/8 Thick)

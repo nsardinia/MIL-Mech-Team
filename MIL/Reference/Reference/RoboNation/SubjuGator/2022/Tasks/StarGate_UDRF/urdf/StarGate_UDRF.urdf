@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This URDF was automatically created by SolidWorks to URDF Exporter! Originally created by Stephen Brawner (brawner@gmail.com) 
+     Commit Version: 1.6.0-4-g7f85cfe  Build Version: 1.6.7995.38578
+     For more information, please see http://wiki.ros.org/sw_urdf_exporter -->
+<robot
+  name="StarGate_UDRF">
+  <link
+    name="base_link">
+    <inertial>
+      <origin
+        xyz="1.30078445598521 1.35362795433374 2.40887133226664"
+        rpy="0 0 0" />
+      <mass
+        value="13.5315308366842" />
+      <inertia
+        ixx="5.04877078084493"
+        ixy="0.364288154470018"
+        ixz="-0.576967567519037"
+        iyy="5.51939783120064"
+        iyz="-1.05981749918102"
+        izz="1.53640855779603" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://StarGate_UDRF/meshes/base_link.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://StarGate_UDRF/meshes/base_link.STL" />
+      </geometry>
+    </collision>
+  </link>
+</robot>

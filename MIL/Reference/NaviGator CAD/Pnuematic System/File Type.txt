@@ -1,0 +1,1 @@
+Circuit Diagrams are made in Rexroth Scheme Editor found at: https://www.boschrexroth.com/en/xc/products/engineering/econfigurators-and-tools/d-c-scheme-editor/dc-scheme-editor

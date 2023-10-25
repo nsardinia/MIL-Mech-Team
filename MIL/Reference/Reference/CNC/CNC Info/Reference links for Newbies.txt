@@ -1,0 +1,21 @@
+https://mae.ufl.edu/designlab/Advanced%20Manufacturing/Helical_Machining_Guidebook.pdf
+
+https://www.youtube.com/watch?v=zzzIpC39WUg&feature=youtu.be (How to Calculate speeds and Feeds, INCH version)
+
+https://harveyperformance.widen.net/s/nifm3p7ym0 (Guidebook & Articles)
+
+https://www.harveytool.com/resources/guidebooks-articles#charts (Guidebook & Articles)
+
+https://shapeokoenthusiasts.gitbook.io/shapeoko-cnc-a-to-z/feeds-and-speeds-basics (Feeds and Speeds)
+
+https://www.youtube.com/watch?v=YBGqknN3gGs&feature=youtu.be (CNC dummies for Routers)
+
+https://www.youtube.com/watch?v=j0ME__3RwWQ&feature=youtu.be (CNC Crashes,Breaking Tools, & Outtakes)
+
+https://blog.tormach.com/what-is-cad-cam-gcode
+
+https://youtu.be/pCMdPF39Uts (Automatic Tool Changers)
+
+https://www.xometry.com/ultimate-guide/the-complete-guide-to-cnc-machining/?utm_campaign=New%20user%20onboarding%20Dec%202020&utm_medium=email&_hsmi=103097318&_hsenc=p2ANqtz-9DThSerEZly0zzNhszdl6kxAtQ-acBQ0hpQ80J9z6tYxJMzufgMQgivVkpwej39IqV-CFfNVdKH706ff4myYH_QIpqHg&utm_content=103097318&utm_source=hs_automation#chapter-cnc-machining-basics
+(ULTIMATE GUIDE TO CNC, EVERYTHING PUT TOGETHER BY DAN)
+
